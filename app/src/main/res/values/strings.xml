@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="original_title">Original Title:</string>
+    <string name="synopsis">Synopsis:</string>
+    <string name="test_synopsis">You will need to append a base path ahead of this relative path to build the complete url you will need to fetch the image using Picasso.</string>
+    <string name="user_rating">User rating:</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="release_date">Release Date:</string>
+</resources>
